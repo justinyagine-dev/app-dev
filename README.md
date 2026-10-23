@@ -1,4 +1,8 @@
 
+### My Learning Experience
+
+I learned how to use Markdown and GitHub to organize my work and collaborate with others.
+
 # My Favorite Series or Movie
 
 ## About My Favorite Series
